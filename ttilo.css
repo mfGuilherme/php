@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    text-transform: uppercase;
+    font-size:30px;
+    font-weight: bold;
+    
+
+}
+
+#caixa{ 
+    width: 900px; height: auto; margin: 10px auto;
+    border-radius: 10px; box-shadow: 5px 5px 5px #990000;
+    background-color: #CCC; border: 1px solid #990000;
+}
+
+label{
+    padding-left: 15%;
+    text-transform: uppercase;
+    font-size:15px;
+    font-weight: bold;
+}
+.pesquisa{
+    width: 50%;
+}
+.categoria{
+    text-align:center;
+    
+}
+.resultado {
+    text-align: center;
+
+
+}
